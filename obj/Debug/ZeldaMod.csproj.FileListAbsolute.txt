@@ -1,0 +1,2 @@
+C:\Users\Leonardo\Documents\My Games\Terraria\ModLoader\Mod Sources\ZeldaMod\obj\Debug\ZeldaMod.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo Zorzi\Documents\My Games\Terraria\ModLoader\Mod Sources\ZeldaMod\obj\Debug\ZeldaMod.csprojResolveAssemblyReference.cache
