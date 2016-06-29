@@ -13,7 +13,7 @@ namespace ZeldaMod
     class ZMPlayer : ModPlayer
     {
         public int switchArrow; //Change the type of arrow shooted from Hero's Bow
-        public int specialProjectileType = -1; //Used by Hero's Bow to choose wich arrow shoot
+        public int specialProjectileType = -1; //Used by Hero's Bow to choose wich arrow 
 
         public int tunicEquiped;
 
